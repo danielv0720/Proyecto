@@ -43,16 +43,17 @@ color: rgb(250, 235, 215);
 }
 
 .footer-middle{
-   background: #3d6277;
+   background: #6d6e6e;
    padding-top: 2m;
   
-  color: white;
+  color: rgb(197, 197, 197);
 }
-/**Sub Navigation**/
-.subnavigation-container{
-  background: #3d6277;
-  margin-top: 1px;
+
+
+.title{
+ color: rgb(255, 255, 255);
 }
+
 
 
 
