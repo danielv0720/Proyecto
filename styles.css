@@ -54,6 +54,19 @@ color: rgb(250, 235, 215);
  color: rgb(255, 255, 255);
 }
 
+.bg-fondo{
+  background-color: rgb(29, 29, 29);
+}
+
+.container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.title-final{
+  color: aliceblue;
+}
 
 
 
