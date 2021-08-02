@@ -68,6 +68,9 @@ color: rgb(250, 235, 215);
   color: aliceblue;
 }
 
+html{
+  scroll-behavior:smooth ;
+}
 
 
 
