@@ -1,0 +1,12 @@
+.flex-card {
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    height: 100%;
+  }
+  .flex-button {
+    display: flex;
+    justify-content:center;
+  }
+  .bg-fondo{
+    background-color: rgba(179, 178, 178, 0.514);}
